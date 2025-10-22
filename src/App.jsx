@@ -151,7 +151,7 @@ export default function App() {
 
       <footer className="bg-white border-t">
         <div className="max-w-4xl mx-auto px-4 py-4 text-sm text-slate-600">
-          Built with React + Vite + Tailwind — created by {`@${"Akmal Stanikzai"}`}
+          Built with React + Vite + Tailwind — created by {`@${"Akmal Stanikzai Technologies"}`}
         </div>
       </footer>
     </div>
