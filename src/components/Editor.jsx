@@ -1,5 +1,5 @@
 import React from "react"
-import { sanitizeFilename } from "../utils/fileName"
+import { sanitizeFilename } from "../utils/filename"
 
 export default function Editor({
   text,
